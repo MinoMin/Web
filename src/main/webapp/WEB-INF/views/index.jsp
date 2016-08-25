@@ -36,7 +36,7 @@
 		<jsp:include page="navbar.jsp" flush="false"/>
                 <div class="intro">
                         <h2 class="intro__title">ZIGLEZIGLE</h2>
-                        <p class="intro__subtitle"> Welcome to our Page</p>
+                        <p class="intro__subtitle"> Welcomdddddddddddddddddddddddddde to our Page</p>
                         <button class="intro__button">Register now</button>
                 </div>
 	
